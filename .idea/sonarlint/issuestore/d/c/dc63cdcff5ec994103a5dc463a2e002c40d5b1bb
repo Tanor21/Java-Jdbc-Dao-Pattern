@@ -1,0 +1,11 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(×€Ì‰øÿÿÿÿ8Æ„¶æÒ1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ç„¶æÒ1
+L	java:S106"+Replace this use of System.out by a logger.(Æ“Ìşÿÿÿÿ8È„¶æÒ1
+]	java:S125"<This block of commented-out lines of code should be removed.(”êü¶şÿÿÿÿ8Ì„¶æÒ1
+X	java:S125"<This block of commented-out lines of code should be removed.(—ÃÈİ8ÓÈÆæÒ1
+P
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8ÕÈÆæÒ1
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ƒ ·æÒ1

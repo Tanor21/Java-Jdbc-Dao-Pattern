@@ -1,0 +1,17 @@
+
+d
+java:S2095@"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8áÍÏêÒ1
+d
+java:S2095!"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8¼†ÃêÒ1
+q
+java:S20952"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(İ³³Îûÿÿÿÿ8½†ÃêÒ1
+X
+java:S6437"6Revoke and change this password, as it is compromised.(ç¦ŠÒşÿÿÿÿ8Á†ÃêÒ1
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Â†ÃêÒ1
+L	java:S106("+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Ä†ÃêÒ1
+L	java:S1067"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Å†ÃêÒ1
+L	java:S106Q"+Replace this use of System.out by a logger.(áâ®×şÿÿÿÿ8§ÎÏêÒ1
+L	java:S106T"+Replace this use of System.out by a logger.(È©·ğùÿÿÿÿ8«ÎÏêÒ1
+L	java:S106W"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8³ÎÏêÒ1
+W	java:S125e"<This block of commented-out lines of code should be removed.(³ì%8Å ŞêÒ1
+X	java:S125i"<This block of commented-out lines of code should be removed.(™äÿÉ8¸İÚêÒ1
